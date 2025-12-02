@@ -11,7 +11,7 @@ public class QuizGame {
     public void start(String text) {
         Scanner sc = new Scanner(System.in);
 
-        //  Ask for player name
+        // 🔥 Ask for player name
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
 
